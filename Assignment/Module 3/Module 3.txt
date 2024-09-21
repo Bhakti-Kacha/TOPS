@@ -1,0 +1,45 @@
+
+SELECT * FROM `employee` RIGHT join department on employee.DepNo=department.DepNo;
+
+SELECT * FROM `employee` LEFT join department on employee.DepNo=department.DepNo;
+
+SELECT * FROM `employee` inner join department on employee.DepNo=department.DepNo;
+
+
+DQL
+
+select EmpName from department;
+(Display only employee name field)
+
+SELECT * FROM `department`;
+(Display whole table details)
+
+select DISTINCT DepName from employee;
+(Display all the field of table not display repeat department name)
+
+select EmpName as Employee_name from department;
+(Display column name as "Employee_Name")
+
+select * from department where EmpName='sahil' and DepNo=101;
+(Display record of sahil and 101 no. if it match.)
+
+select * from department where EmpName='sahil' and DepNo=102;
+(Not display any records because data was not match)
+
+select * from department where EmpName='sahil' OR DepNo=102;
+(Display whole record of sahil & deptno 102)
+
+select * from department where DepNo BETWEEN 101 AND 105;
+ (Display whole record of depno 101 to 105)
+
+Character in between
+select * from department where EmpName like "%ah%";
+(Display whole record of employee who name first & last letter whatever but in middle its 'ah')
+
+Starting Character
+select * from department where EmpName like "a%";
+
+select * from department where EmpName like "s_h%"
+
+End character
+select * from department where EmpName like "%l"
