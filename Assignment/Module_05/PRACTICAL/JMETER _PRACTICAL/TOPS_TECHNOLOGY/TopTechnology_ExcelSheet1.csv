@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729096960415,1225,HTTP Request,200,OK,Top_Technology_Users 1-2,text,true,,339740,240,10,10,https://www.tops-int.com/,93,0,69
+1729096960415,93,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-2,text,true,,355,120,10,10,http://www.tops-int.com/,93,0,69
+1729096960509,1131,HTTP Request-1,200,OK,Top_Technology_Users 1-2,text,true,,339385,120,10,10,https://www.tops-int.com/,850,0,76
+1729096960516,1309,HTTP Request,200,OK,Top_Technology_Users 1-3,text,true,,339966,240,9,9,https://www.tops-int.com/,59,0,23
+1729096960516,59,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-3,text,true,,355,120,9,9,http://www.tops-int.com/,59,0,23
+1729096960576,1249,HTTP Request-1,200,OK,Top_Technology_Users 1-3,text,true,,339611,120,9,9,https://www.tops-int.com/,888,0,63
+1729096960718,2182,HTTP Request,200,OK,Top_Technology_Users 1-5,text,true,,340340,240,8,8,https://www.tops-int.com/,54,0,28
+1729096960718,54,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-5,text,true,,355,120,8,8,http://www.tops-int.com/,54,0,28
+1729096960773,2127,HTTP Request-1,200,OK,Top_Technology_Users 1-5,text,true,,339985,120,8,8,https://www.tops-int.com/,1740,0,70
+1729096960314,2665,HTTP Request,200,OK,Top_Technology_Users 1-1,text,true,,340087,240,7,7,https://www.tops-int.com/,107,0,85
+1729096960314,107,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-1,text,true,,355,120,7,7,http://www.tops-int.com/,107,0,85
+1729096960421,2558,HTTP Request-1,200,OK,Top_Technology_Users 1-1,text,true,,339732,120,7,7,https://www.tops-int.com/,1227,0,121
+1729096960614,2456,HTTP Request,200,OK,Top_Technology_Users 1-4,text,true,,340524,240,6,6,https://www.tops-int.com/,48,0,21
+1729096960614,48,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-4,text,true,,355,120,6,6,http://www.tops-int.com/,48,0,21
+1729096960663,2407,HTTP Request-1,200,OK,Top_Technology_Users 1-4,text,true,,340169,120,6,6,https://www.tops-int.com/,1856,0,91
+1729096960920,2363,HTTP Request,200,OK,Top_Technology_Users 1-7,text,true,,340204,240,5,5,https://www.tops-int.com/,85,0,23
+1729096960920,85,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-7,text,true,,355,120,5,5,http://www.tops-int.com/,85,0,23
+1729096961005,2278,HTTP Request-1,200,OK,Top_Technology_Users 1-7,text,true,,339849,120,5,5,https://www.tops-int.com/,1974,0,57
+1729096961030,2650,HTTP Request,200,OK,Top_Technology_Users 1-8,text,true,,340330,240,4,4,https://www.tops-int.com/,90,0,21
+1729096961030,90,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-8,text,true,,355,120,4,4,http://www.tops-int.com/,90,0,21
+1729096961121,2559,HTTP Request-1,200,OK,Top_Technology_Users 1-8,text,true,,339975,120,4,4,https://www.tops-int.com/,2239,0,55
+1729096960819,3276,HTTP Request,200,OK,Top_Technology_Users 1-6,text,true,,340144,240,3,3,https://www.tops-int.com/,59,0,27
+1729096960819,59,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-6,text,true,,355,120,3,3,http://www.tops-int.com/,59,0,27
+1729096960879,3216,HTTP Request-1,200,OK,Top_Technology_Users 1-6,text,true,,339789,120,3,3,https://www.tops-int.com/,1824,0,62
+1729096961227,2975,HTTP Request,200,OK,Top_Technology_Users 1-10,text,true,,340360,240,2,2,https://www.tops-int.com/,60,0,31
+1729096961227,60,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-10,text,true,,355,120,2,2,http://www.tops-int.com/,60,0,31
+1729096961288,2914,HTTP Request-1,200,OK,Top_Technology_Users 1-10,text,true,,340005,120,2,2,https://www.tops-int.com/,2393,0,73
+1729096961122,3130,HTTP Request,200,OK,Top_Technology_Users 1-9,text,true,,340279,240,1,1,https://www.tops-int.com/,46,0,22
+1729096961122,46,HTTP Request-0,301,Moved Permanently,Top_Technology_Users 1-9,text,true,,355,120,1,1,http://www.tops-int.com/,46,0,22
+1729096961169,3083,HTTP Request-1,200,OK,Top_Technology_Users 1-9,text,true,,339924,120,1,1,https://www.tops-int.com/,2475,0,99
